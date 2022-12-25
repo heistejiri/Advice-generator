@@ -1,2 +1,2 @@
-# Advice-generator
- A basic API designed to generate advice and quotes by a pull of a button.
+# Advice_Gen_2.0
+New advice generator using API
