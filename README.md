@@ -4,7 +4,7 @@
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://shopify-website-clone.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="http://advice-gen-2-0.vercel.app/">**Visit Now** 🚀</a>
 
 <br>
 
