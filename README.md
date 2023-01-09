@@ -21,6 +21,7 @@
 <br>
 
 ![Screenshot](./images/screenshots/desktop.png?raw=true "Template Screenshot")
+![Screenshot](./images/screenshots/mobile.png?raw=true "Template Screenshot")
 
 
 ## 📬 Connect With Me
